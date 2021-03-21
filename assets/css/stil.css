@@ -1,0 +1,43 @@
+/* 
+
+*/
+
+.logotd {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+}
+
+.navbar-area {
+    background:rgb(49, 141, 72);
+}
+
+
+.carousel-btn {
+    margin-top: 30px;
+}
+
+.navbar-nav li a {
+    color: rgb(255, 255, 255) !important;
+}
+
+.margine {
+    margin-top: 18px !important;
+    /* height: 100px; */
+}
+
+/* .footer-area {
+    height: 5px !important;
+} */
+
+.culoare {
+    color: rgb(49, 141, 72);
+}
+
+.page-scroll{
+    background-color: rgb(49, 141, 72);
+}
+.page-scroll .nav-items {
+    text-align: center !important;
+}
