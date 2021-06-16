@@ -3,7 +3,7 @@
 */
 
 .logotd {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Lobster;
     font-size: 28px;
     font-weight: 500;
     color: rgb(255, 255, 255);
@@ -40,4 +40,15 @@
 }
 .page-scroll .nav-items {
     text-align: center !important;
+}
+
+.btn-galerie a{
+    color: white;
+}
+.btn-galerie a:hoover{
+    color: white;
+}
+
+.testimonial-image i{
+    color: #95a6b9;
 }
